@@ -6,7 +6,7 @@ These file accompany a soon-to-be-released LogRhythm blog about the FireEye brea
 
 ## Files:
 
-- **CVE.txt** - list of CVEs extracted from CVEs_red_team_tools.md
+- **CVE.txt** - list of CVEs extracted from CVEs_red_team_tools.md (for CVE search in LR)
 - **MD5hashes.txt** - list of MD5 hashes extracted from the all-yara.yar file (for hash search in LR)
 - **MITRE_subtechniques.txt** - list of MITRE techniques listed in signatures_table_of_content.csv
 - **MSThreats.txt** - list of Windows Defender threat names extracted from retroactive YARA VirusTotal search located at https://docs.google.com/spreadsheets/d/e/2PACX-1vQrmeti88UJ3tEhPlqEsNVoesB-pZh6o2-zyDG_-T3MUQBeL1yd_ycFqBlmjQ8fEggkGhcMefG9KHxP/pubhtml (for ThreatName search in LR)
